@@ -2,6 +2,14 @@
 
 A crptocurrency price listing project.
 
+https://www.codementor.io/projects/mobile/cryptocurrency-price-listing-mobile-app-atx32meo88
+
+# screenshots
+<p align="center">
+  <img src="https://github.com/xJSRL/crypto-price-list/blob/main/screenshot/Screenshot_20240624_121029.png" width="250" title="Cryptocurrency Price List">
+  <img src="https://github.com/xJSRL/crypto-price-list/blob/main/screenshot/Screenshot_20240624_121049.png" width="250" title="Cryptocurrency Price List">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
